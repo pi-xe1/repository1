@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\oufgu\проектдлягит\проектдлягит\obj\Debug\проектдлягит.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\oufgu\проектдлягит\проектдлягит\obj\Debug\проектдлягит.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\oufgu\проектдлягит\проектдлягит\bin\Debug\проектдлягит.exe.config
+C:\Users\Пользователь\Desktop\oufgu\проектдлягит\проектдлягит\bin\Debug\проектдлягит.exe
+C:\Users\Пользователь\Desktop\oufgu\проектдлягит\проектдлягит\bin\Debug\проектдлягит.pdb
+C:\Users\Пользователь\Desktop\oufgu\проектдлягит\проектдлягит\obj\Debug\проектдлягит.exe
+C:\Users\Пользователь\Desktop\oufgu\проектдлягит\проектдлягит\obj\Debug\проектдлягит.pdb
